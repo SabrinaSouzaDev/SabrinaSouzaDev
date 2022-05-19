@@ -3,7 +3,7 @@
 
 ### Oi eu sou a Sabrina Souza, Estagiário de Dev Web! 👋
 
-- 🔭 Atual Estou Estagiando na defensoria Publica do Estado do Pará na área da tecnologia em desenvolvimento Web.
+- 🔭 Atualmente Estou Estagiando na defensoria Publica do Estado do Pará na área da tecnologia em desenvolvimento Web.
 - 🌱 Estou Aprendendo HTML, CSS, javascript, Python, C#
 - 🎲 Meu inglês é Basico.<br/>
 - 💻 Estudo programação por conta própria, através de videoaulas e documentação.<br/>
