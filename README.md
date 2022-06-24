@@ -31,7 +31,8 @@
   <hr>
  <h2 align=left> Estou interessada</h2>
   <img align="center" alt="ReatecJs" title="ReatecJs" height="28" width="70" style=for-the-badge&logo=angularjs&logoColor=white src="folder/img/reatec.jpg"/>
-  <img align="center" alt="docker-Compose" title="docker-Compose" height="28" width="70" style=for-the-badge&logo=docker&logoColor=white src="folder/img/docker.png"/>
+  <img align="center" alt="docker-compose" title="docker-compose" height="28" width="70" style=for-the-badge&logo=docker&logoColor=white src="folder/img/docker compose.png"/>
+  <img align="center" alt="docker" title="docker" height="28" width="70" style=for-the-badge&logo=docker&logoColor=white src="folder/img/docker.png"/>
   <img align="center" alt="nodeJs" title="NodeJs" height="28" width="70" style=for-the-badge&logo=nodejs&logoColor=white src="folder/img/nodejs.jpg"/>
   <img align="center" alt="Mysql" title="Mysql" style=for-the-badge&logo=mysql&logoColor=white src="folder/img/mysql.jpg"/>
   <img align="center" alt="Sabri-Csharp" title="C Sharp" height="28" width="70" src="folder/img/csharp.jpg">
