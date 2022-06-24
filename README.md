@@ -21,17 +21,20 @@
   <!--<img align="center" alt="Sabri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
   <img align="center" alt="Sabri-HTML" title="HTML" style=for-the-badge&logo=html5&logoColor=white src="folder/img/html01.jpg">
   <img align="center" alt="Sabri-CSS" title="CSS" style=for-the-badge&logo=css3&logoColor=white src="folder/img/css01.jpg">
-  <img align="right" alt="Sabri-pic" title="Sabrina Souza" height="150" style="border-radius:50px;" src="folder/img/Sabridesenho03.jpeg">
+  <img align="center" alt="Sabri-Python" title="Python" height="28" width="70" style=for-the-badge&logo=Python&logoColor=white src="folder/img/python03.jpg">
+  <img align="center" alt="Sabri-PostgresSQL" title="PostgresSQL" height="28" width="70" style=for-the-badge&logo=PostgresSQL&logoColor=white src="folder/img/postgressql.png">
+  <img align="center" alt="Sabri-django" title="django" height="28" width="70" src="folder/img/django.png">
   <img align="center" alt="Sabri-sqloracle" title="Sql Oracle" height="28" width="70" src="folder/img/oraclesql.jpg">
+  <img align="right" alt="Sabri-pic" title="Sabrina Souza" height="150" style="border-radius:50px;" src="folder/img/Sabridesenho03.jpeg">
 </div>
   
   <hr>
  <h2 align=left> Estou interessada</h2>
-  <img align="center" alt="nodeJs" title="NodeJs" height="28" width="70" style=for-the-badge&logo=nodejs&logoColor=white src="folder/img/nodejs.jpg"/>
   <img align="center" alt="ReatecJs" title="ReatecJs" height="28" width="70" style=for-the-badge&logo=angularjs&logoColor=white src="folder/img/reatec.jpg"/>
+  <img align="center" alt="docker-Compose" title="docker-Compose" height="28" width="70" style=for-the-badge&logo=docker&logoColor=white src="folder/img/docker.png"/>
+  <img align="center" alt="nodeJs" title="NodeJs" height="28" width="70" style=for-the-badge&logo=nodejs&logoColor=white src="folder/img/nodejs.jpg"/>
   <img align="center" alt="Mysql" title="Mysql" style=for-the-badge&logo=mysql&logoColor=white src="folder/img/mysql.jpg"/>
   <img align="center" alt="Sabri-Csharp" title="C Sharp" height="28" width="70" src="folder/img/csharp.jpg">
-  <img align="center" alt="Sabri-Python" title="Python" height="28" width="70" src="folder/img/python03.jpg">
 </div></br>
 <hr>
 <h2> Contato </h2>
