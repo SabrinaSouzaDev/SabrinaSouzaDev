@@ -14,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaSouzaDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaSouzaDev&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  <h2 align=left> 💻 Habilidades | Skills </h2>
+  <h2 align="left"> 💻 Habilidades | Skills </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Sabri-js" title="JavaScript" style=for-the-badge&logo=javascript&logoColor=black src="folder/img/js01.jpg">
   <!--<img align="center" alt="Sabri-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
@@ -29,7 +29,8 @@
 </div>
   
   <hr>
- <h2 align=left> Estou interessada</h2>
+  <div>
+ <h2 style="align="center"> Estou interessada</h2>
   <img align="center" alt="ReatecJs" title="ReatecJs" height="28" width="70" style=for-the-badge&logo=angularjs&logoColor=white src="folder/img/reatec.jpg"/>
   <img align="center" alt="docker-compose" title="docker-compose" height="28" width="70" style=for-the-badge&logo=docker&logoColor=white src="folder/img/docker compose.png"/>
   <img align="center" alt="docker" title="docker" height="28" width="70" style=for-the-badge&logo=docker&logoColor=white src="folder/img/docker.png"/>
