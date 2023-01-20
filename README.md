@@ -18,7 +18,6 @@
   <img align="center" alt="Sabri-CSS" title="CSS" style=for-the-badge&logo=css3&logoColor=white src="folder/img/css01.jpg">
   <img align="center" alt="ReatecJs" title="ReatecJs" height="28" width="70" style=for-the-badge&logo=angularjs&logoColor=white src="folder/img/reatec.jpg"/>
   <img align="center" alt="nodeJs" title="NodeJs" height="28" width="70" style=for-the-badge&logo=nodejs&logoColor=white src="folder/img/nodejs.jpg"/>
-  <img align="center" alt="Sabri-Python" title="Python" height="28" width="70" style=for-the-badge&logo=Python&logoColor=white src="folder/img/python03.jpg">
   <img align="center" alt="Sabri-PostgresSQL" title="PostgresSQL" height="28" width="70" style=for-the-badge&logo=PostgresSQL&logoColor=white src="folder/img/postgressql.png">
   <img align="center" alt="Sabri-sqloracle" title="Sql Oracle" height="28" width="70" src="folder/img/oraclesql.jpg">
   <img align="right" alt="Sabri-pic" title="Sabrina Souza" height="150" style="border-radius:50px;" src="folder/img/Sabridesenho03.jpeg">
