@@ -8,11 +8,7 @@
 - 🎲 Meu inglês é Basico.<br/>
 - 💻 Estudo programação por conta própria, através de videoaulas e documentação.<br/>
 
-<div align="center">
-  <a href="https://github.com/SabrinaSouzaDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaSouzaDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaSouzaDev&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
   <h2 align="left"> 💻 Habilidades | Skills </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Sabri-js" title="JavaScript" style=for-the-badge&logo=javascript&logoColor=black src="folder/img/js01.jpg">
