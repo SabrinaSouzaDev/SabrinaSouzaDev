@@ -51,4 +51,4 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=SabrinaSouzaDev&repo=SabrinaSouzaDev&theme=react)](https://github.com/SabrinaSouzaDev/SabrinaSouzaDev)
+
