@@ -11,8 +11,8 @@
 
   <h2 align="left"> 💻 Habilidades | Skills </h2>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Sabri-js" title="JavaScript" style=for-the-badge&logo=javascript&logoColor=black src="folder/img/js01.jpg">
-  <!--<img align="center" alt="Sabri-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
+  <img align="center" alt="JavaScript" title="JavaScript" style=for-the-badge&logo=javascript&logoColor=black src="folder/img/js01.jpg">
+  <img align="center" alt="TypeScript" title="TypeScript" height="28" width="10%" style=for-the-badge&logo=typescript&logoColor=white src="folder/img/typescript2.png">
   <!--<img align="center" alt="Sabri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
   <img align="center" alt="Sabri-HTML" title="HTML" style=for-the-badge&logo=html5&logoColor=white src="folder/img/html01.jpg">
   <img align="center" alt="Sabri-CSS" title="CSS" style=for-the-badge&logo=css3&logoColor=white src="folder/img/css01.jpg">
