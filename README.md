@@ -16,7 +16,7 @@
   <!--<img align="center" alt="Sabri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
   <img align="center" alt="Sabri-HTML" title="HTML" style=for-the-badge&logo=html5&logoColor=white src="folder/img/html01.jpg">
   <img align="center" alt="Sabri-CSS" title="CSS" style=for-the-badge&logo=css3&logoColor=white src="folder/img/css01.jpg">
-  <img align="center" alt="ReatecJs" title="ReatecJs" height="28" width="70" style=for-the-badge&logo=angularjs&logoColor=white src="folder/img/reatec.jpg"/>
+  <img align="center" alt="Nextjs" title="Nextjs" height="28" width="70" style=for-the-badge&logo=nextjs&logoColor=white src="folder/img/nextjs.webp"/>
   <img align="center" alt="nodeJs" title="NodeJs" height="28" width="70" style=for-the-badge&logo=nodejs&logoColor=white src="folder/img/nodejs.jpg"/>
   <img align="center" alt="Sabri-PostgresSQL" title="PostgresSQL" height="28" width="70" style=for-the-badge&logo=PostgresSQL&logoColor=white src="folder/img/postgressql.png">
   <img align="center" alt="Sabri-sqloracle" title="Sql Oracle" height="28" width="70" src="folder/img/oraclesql.jpg">
