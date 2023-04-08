@@ -4,9 +4,10 @@
 ### Oi eu sou a Sabrina Souza, Estagiário de Dev Web! 👋
 
 - 🔭 Atualmente Estou Estagiando na defensoria Publica do Estado do Pará na área da tecnologia em desenvolvimento Web.
-- 🌱 Estou Aprendendo HTML, CSS, javascript, Python, TypeScript. Node.js | React | Postgres | Docker / Compose | Django 
+- 🌱 Estou Aprendendo HTML, CSS, javascript, TypeScript | Nextjs | Dart | Flutter 
 - 🎲 Meu inglês é Basico.<br/>
 - 💻 Estudo programação por conta própria, através de videoaulas e documentação.<br/>
+- Estou participando de projetos de extensão na faculdade do tipo mobile
 
 
   <h2 align="left"> 💻 Habilidades | Skills </h2>
