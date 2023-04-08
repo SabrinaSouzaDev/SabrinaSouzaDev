@@ -1,13 +1,12 @@
 <h1 align=center> Bem-vindo ao meu github</h1>
 
 
-### Oi eu sou a Sabrina Souza, Estagiário de Dev Web! 👋
+### Oi eu sou a Sabrina Souza, Estagiária de Dev Web! 👋
 
 - 🔭 Atualmente Estou Estagiando na defensoria Publica do Estado do Pará na área da tecnologia em desenvolvimento Web.
-- 🌱 Estou Aprendendo HTML, CSS, javascript, TypeScript | Nextjs | Dart | Flutter 
+- 🌱 Estou Aprendendo HTML, CSS, javascript, Python, TypeScript. Node.js | React | Postgres | Docker / Compose | Django 
 - 🎲 Meu inglês é Basico.<br/>
 - 💻 Estudo programação por conta própria, através de videoaulas e documentação.<br/>
-- Estou participando de projetos de extensão na faculdade do tipo mobile
 
 
   <h2 align="left"> 💻 Habilidades | Skills </h2>
@@ -27,6 +26,7 @@
   <hr>
   <div>
  <h2 style="align="center"> Estou interessada</h2>
+  <img align="center" alt="Dart" title="Dart" height="28" width="70" style=for-the-badge&logo=dart&logoColor=white src="folder/img/dart.png"/>   <img align="center" alt="Flutter" title="Flutter" height="28" width="70" style=for-the-badge&logo=flutter&logoColor=white src="folder/img/flutter.png"/>
   <img align="center" alt="docker-compose" title="docker-compose" height="28" width="70" style=for-the-badge&logo=docker&logoColor=white src="folder/img/docker compose.png"/>
   <img align="center" alt="docker" title="docker" height="28" width="70" style=for-the-badge&logo=docker&logoColor=white src="folder/img/docker.png"/>
   <img align="center" alt="Mysql" title="Mysql" style=for-the-badge&logo=mysql&logoColor=white src="folder/img/mysql.jpg"/>
