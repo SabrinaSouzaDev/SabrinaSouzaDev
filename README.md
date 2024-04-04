@@ -28,8 +28,7 @@
   <div>
  <h2 style="align="center"> Estou interessada</h2>
   <img align="center" alt="Dart" title="Dart" height="28" width="70" style=for-the-badge&logo=dart&logoColor=white src="folder/img/dart.png"/>   <img align="center" alt="Flutter" title="Flutter" height="28" width="70" style=for-the-badge&logo=flutter&logoColor=white src="folder/img/flutter.png"/>
-  <img align="center" alt="docker-compose" title="docker-compose" height="28" width="70" style=for-the-badge&logo=docker&logoColor=white src="folder/img/docker compose.png"/>
-  <img align="center" alt="docker" title="docker" height="28" width="70" style=for-the-badge&logo=docker&logoColor=white src="folder/img/docker.png"/>
+  
 </div></br>
 <hr>
 <h2> Contato </h2>
