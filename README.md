@@ -21,16 +21,15 @@
   <img align="center" alt="Sabri-PostgresSQL" title="PostgresSQL" height="28" width="70" style=for-the-badge&logo=PostgresSQL&logoColor=white src="folder/img/postgressql.png">
   <img align="center" alt="Sabri-sqloracle" title="Sql Oracle" height="28" width="70" src="folder/img/oraclesql.jpg">
   <img align="right" alt="Sabri-pic" title="Sabrina Souza" height="150" style="border-radius:50px;" src="folder/img/Sabridesenho03.jpeg">
+   <img align="center" alt="docker-compose" title="docker-compose" height="28" width="70" style=for-the-badge&logo=docker&logoColor=white src="folder/img/docker compose.png"/>
+  <img align="center" alt="docker" title="docker" height="28" width="70" style=for-the-badge&logo=docker&logoColor=white src="folder/img/docker.png"/>
 </div>
-  
   <hr>
   <div>
  <h2 style="align="center"> Estou interessada</h2>
   <img align="center" alt="Dart" title="Dart" height="28" width="70" style=for-the-badge&logo=dart&logoColor=white src="folder/img/dart.png"/>   <img align="center" alt="Flutter" title="Flutter" height="28" width="70" style=for-the-badge&logo=flutter&logoColor=white src="folder/img/flutter.png"/>
   <img align="center" alt="docker-compose" title="docker-compose" height="28" width="70" style=for-the-badge&logo=docker&logoColor=white src="folder/img/docker compose.png"/>
   <img align="center" alt="docker" title="docker" height="28" width="70" style=for-the-badge&logo=docker&logoColor=white src="folder/img/docker.png"/>
-  <img align="center" alt="Mysql" title="Mysql" style=for-the-badge&logo=mysql&logoColor=white src="folder/img/mysql.jpg"/>
-  <img align="center" alt="Sabri-Csharp" title="C Sharp" height="28" width="70" src="folder/img/csharp.jpg">
 </div></br>
 <hr>
 <h2> Contato </h2>
