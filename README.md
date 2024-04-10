@@ -3,9 +3,9 @@
 
 ### Oi eu sou a Sabrina Souza, Estagiária de Dev Web! 👋
 
-- 🔭 Atualmente Estou Estagiando na defensoria Publica do Estado do Pará na área da tecnologia em desenvolvimento Web.
-- 🌱 Estou Aprendendo Javascript | TypeScript | Nextjs | Node.js | Dart | Flutter 
-- 🎲 Meu inglês é Basico.<br/>
+- 🔭 Atualmente Estou Trabalhando na CTC Tech para defensoria Publica do Estado do Pará desempenhando a função no Desenvolvimento de sistemas voltado para programação Front-End Web..
+- 🌱 Estou Aprendendo Javascript | TypeScript | | Python | Nextjs
+- 🎲 Inglês técnico.<br/>
 - 💻 Estudo programação por conta própria, através de videoaulas e documentação.<br/>
 
 
@@ -20,8 +20,8 @@
   <img align="center" alt="nodeJs" title="NodeJs" height="28" width="70" style=for-the-badge&logo=nodejs&logoColor=white src="folder/img/nodejs.jpg"/>
   <img align="center" alt="Sabri-PostgresSQL" title="PostgresSQL" height="28" width="70" style=for-the-badge&logo=PostgresSQL&logoColor=white src="folder/img/postgressql.png">
   <img align="center" alt="Sabri-sqloracle" title="Sql Oracle" height="28" width="70" src="folder/img/oraclesql.jpg">
-  <img align="right" alt="Sabri-pic" title="Sabrina Souza" height="150" style="border-radius:50px;" src="folder/img/Sabridesenho03.jpeg">
-   <img align="center" alt="docker-compose" title="docker-compose" height="28" width="70" style=for-the-badge&logo=docker&logoColor=white src="folder/img/docker compose.png"/>
+    <!--<img align="right" alt="Sabri-pic" title="Sabrina Souza" height="150" style="border-radius:50px;" src="folder/img/Sabridesenho03.jpeg">-->
+  <img align="center" alt="docker-compose" title="docker-compose" height="28" width="70" style=for-the-badge&logo=docker&logoColor=white src="folder/img/docker compose.png"/>
   <img align="center" alt="docker" title="docker" height="28" width="70" style=for-the-badge&logo=docker&logoColor=white src="folder/img/docker.png"/>
 </div>
   <hr>
