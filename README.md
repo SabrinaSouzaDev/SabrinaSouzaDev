@@ -40,6 +40,7 @@
   <a href="https://www.linkedin.com/in/sabrina-souza-6361a5148/" target="_blank" alt="sabrina-souza-6361a5148" title="sabrina-souza-6361a5148"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/SabrinaSouzaDev/SabrinaSouzaDev/blob/output/github-contribution-grid-snake.svg)
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=SabrinaSouzaDev&repo=SabrinaSouzaDev&theme=react)](https://github.com/SabrinaSouzaDev/SabrinaSouzaDev)
  
 </div>
  
