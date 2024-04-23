@@ -34,7 +34,7 @@
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=git,gitlab,linux,react,html,css,vscode,tailwind,typescript, arch" />
+  <img src="https://skillicons.dev/icons?i=nextjs,git,gitlab,linux,react,html,css,vscode,tailwind,typescript, arch" />
 </div>
 
   
