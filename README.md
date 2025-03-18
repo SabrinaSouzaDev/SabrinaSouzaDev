@@ -5,8 +5,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Sabrina!;" />
 </h1>
 
-- 🔭 Atualmente Estou Trabalhando na CTC Tech para defensoria Publica do Estado do Pará desempenhando a função no Desenvolvimento de sistemas voltado para programação Front-End Web..
-- 🌱 Estou Aprendendo Javascript | TypeScript | | Python | Nextjs
+- 🔭 Atualmente Estou Trabalhando na função no Desenvolvimento de sistemas voltado para programação full stack..
+- 🌱 Estou Aprendendo Java | Spring Boot | Docker | postgresql
 - 🎲 Inglês técnico.<br/>
 - 💻 Estudo programação por conta própria, através de videoaulas e documentação.<br/>
 
@@ -19,6 +19,7 @@
 <br>
     <hr></hr>
     <img src="https://skillicons.dev/icons?i=aws,gcp,pycharm,postgresql,py,django&perline=3" />
+    <img src="https://skillicons.dev/icons?i=java,spring&perline=1"/>
     <img src="https://skillicons.dev/icons?i=flutter,dart,android,androidstudio,firebase&perline=3"/>
   </a>
 </p>
@@ -26,15 +27,15 @@
   <hr>
   <div>
  <div  align="center" >
-  - 🔭 Atualmente estou trabalhando
+  - 🔭 Atualmente estou trabalhando em:
   <br>
-- 🌱 Atualmente estou estudando react, typescript, Tailwind css ...
+- 🌱 Atualmente estou estudando Java, Spring Boot, typescript/javascript, React/Nextjs, Docker, PostGresql Tailwind css ...
 </div>
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=nextjs,git,gitlab,linux,react,html,css,vscode,tailwind,typescript, arch" />
+  <img src="https://skillicons.dev/icons?i=vscode,spring,java,nextjs,react,typescript,git,gitlab,linux,html,css,tailwind,arch" />
 </div>
 
   
