@@ -5,54 +5,50 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Sabrina!;" />
 </h1>
 
-- 🔭 Atualmente Estou Trabalhando na função no Desenvolvimento de sistemas voltado para programação full stack..
-- 🌱 Estou Aprendendo Java | Spring Boot | Docker | postgresql
-- 🎲 Inglês técnico.<br/>
-- 💻 Estudo programação por conta própria, através de videoaulas e documentação.<br/>
+## 👩‍💻 Sobre mim
+
+Sou desenvolvedora **Full Stack** apaixonada por criar soluções completas e escaláveis.  
+Atualmente focada em **Java + Spring Boot** no backend e **React/Next.js** no frontend, com experiência em **Docker, PostgreSQL** e **cloud (AWS/GCP)**.  
+Tenho também vivência em **projetos legados com C# e .NET**, o que me dá versatilidade para atuar em diferentes cenários tecnológicos.  
+
+Busco oportunidades para crescer em projetos reais e contribuir com **código limpo, bem documentado e sustentável**.
+
+---
+
+### 🚀 O que estou fazendo
+- 🔭 Projetos full stack com foco em **c#/.Net**
+- 📬 Explorando **serviços de mensageria** (RabbitMQ) para sistemas distribuídos
+- 📚 Estudando inglês técnico para documentação e comunidades internacionais
+- 💡 Aberta a contribuições em **open source** e parcerias em projetos
+
+---
+
+### ⚙️ Tecnologias
+- **Backend:** Java, Spring Boot, C#, .NET  
+- **Frontend:** React, Next.js  
+- **Banco de Dados:** PostgreSQL  
+- **DevOps/Cloud:** Docker, AWS, GCP  
 
 
-<h2 align="left"> 💻 Habilidades | Skills </h2>
-<div style="display: inline_block">
-<p align="left">
+## 💻 Tech Stack & Ferramentas
 
-- **☁️ ⚙️ Cloud & Backend**:
+**Backend & Cloud**  
+<img src="https://skillicons.dev/icons?i=java,spring,python,django,postgresql,docker,aws,gcp,firebase,linux&perline=8" />
 
-<hr>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,gitlab,firebase,pycharm,postgresql,linux&perline=9" />
-    </br>
-    <img src="https://skillicons.dev/icons?i=java,spring,py,django&perline=4"/>
-    </a>
-<br>
-<hr>
+**Frontend & Mobile**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,bootstrap,flutter,dart,html,css,figma&perline=8" />
 
-- **📱 Mobile Development**:
+**Ferramentas & Outros**  
+<img src="https://skillicons.dev/icons?i=git,gitlab,pycharm,androidstudio,materialui&perline=6" />
 
-<hr>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&perline=3"/>
-  </a>
-</p>
-<hr>
+## Vamos conversar?  
+Me encontre no LinkedIn ou envie um e-mail!  
+Estou aberta a oportunidades, feedbacks e colaborações. 😄
 
-- **🖥️ Front-End & 🎨 design**:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/QXnhv9H7fC "Sabrina Souza#5541")
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNrcmhcnjzCPDCbxXmtkDlWpFgcKKMPHktkGdltmNQvzLqFwwJDqCPpQHKbTKvQkgNwrbq "lynxsabri@gmail.com")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-tsouza/ "sabrina-tsouza")
 
-<hr>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,materialui,react,typescript,javascript,bootstrap,figma,html,css,tailwind&perline=6" />
-  </a>
-</p>
-</div>
-</br>
-<hr>
-<h2> Contato </h2>
-<div style="display: inline_block" align="left" > 
-  <a href="https://instagram.com/ssabrinalynx" target="_blank" alt="ssabrinalynx" title="ssabrinalynx"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<!--<a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>-->
-<a href="https://discord.gg/QXnhv9H7fC" target="_blank" alt="Sabrina Souza#5541" title="Sabrina Souza#5541"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNrcmhcnjzCPDCbxXmtkDlWpFgcKKMPHktkGdltmNQvzLqFwwJDqCPpQHKbTKvQkgNwrbq" target="_blank" alt="lynxsabri@gmail.com" title="lynxsabri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sabrina-souza-6361a5148/" target="_blank" alt="sabrina-souza-6361a5148" title="sabrina-souza-6361a5148"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-  </a>
 
  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
