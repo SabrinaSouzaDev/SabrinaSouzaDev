@@ -7,39 +7,59 @@
 
 ## 👩‍💻 Sobre mim
 
-Sou desenvolvedora **Full Stack** apaixonada por criar soluções completas e escaláveis.  
-Atualmente focada em **Java + Spring Boot** no backend e **React/Next.js** no frontend, com experiência em **Docker, PostgreSQL** e **cloud (AWS/GCP)**.  
-Tenho também vivência em **projetos legados com C# e .NET**, o que me dá versatilidade para atuar em diferentes cenários tecnológicos.  
+### Full Stack Developer | Java & Spring Boot | React & Next.js
 
-Busco oportunidades para crescer em projetos reais e contribuir com **código limpo, bem documentado e sustentável**.
+Sou uma desenvolvedora focada em construir soluções escaláveis e resilientes. Minha stack principal envolve o ecossistema **Java (Spring Boot)** e **JavaScript/TypeScript (React/Next.js)**, mas tenho experiência em **C# e .NET**, o que me permite transitar com agilidade entre arquiteturas modernas e sistemas legados.
 
 ---
 
-### 🚀 O que estou fazendo
-- 🔭 Projetos full stack com foco em **c#/.Net**
-- 📬 Explorando **serviços de mensageria** (RabbitMQ) para sistemas distribuídos
-- 📚 Estudando inglês técnico para documentação e comunidades internacionais
-- 💡 Aberta a contribuições em **open source** e parcerias em projetos
+## 🚀 O que estou fazendo no momento
+
+* 🔭 **Projetos Full Stack:** Desenvolvendo aplicações ponta a ponta com foco em performance e experiência do usuário.
+* 📬 **Sistemas Distribuídos:** Explorando serviços de mensageria com **RabbitMQ** para comunicação assíncrona.
+* ☁️ **Cloud & Infra:** Implementando containers com **Docker** e gerenciando ambientes em **AWS** e **GCP**.
+* 📚 **Evolução Contínua:** Aprimorando meu inglês técnico para documentação e colaboração em comunidades internacionais.
 
 ---
-
-### ⚙️ Tecnologias
-- **Backend:** Java, Spring Boot, C#, .NET  
-- **Frontend:** React, Next.js  
-- **Banco de Dados:** PostgreSQL  
-- **DevOps/Cloud:** Docker, AWS, GCP  
-
 
 ## 💻 Tech Stack & Ferramentas
 
-**Backend & Cloud**  
-<img src="https://skillicons.dev/icons?i=java,spring,python,django,postgresql,docker,aws,gcp,firebase,linux&perline=8" />
+**Backend & Cloud**
+<p align="left">
+<a href="#"><img src="https://skillicons.dev/icons?i=java" title="Java" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=python" title="Python" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=django" title="Django" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=cs" title="C#" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=docker" title="Docker" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=aws" title="AWS" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=gcp" title="GCP" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=firebase" title="Firebase" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=linux" title="Linux" /></a>
+<p/>
 
-**Frontend & Mobile**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,bootstrap,flutter,dart,html,css,figma&perline=8" />
+**Frontend & Mobile**
+<p align="left">
+<a href="#"><img src="https://skillicons.dev/icons?i=react" title="React" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=flutter" title="Flutter" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=dart" title="Dart" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=figma" title="Figma" /></a>
+<p/>
 
-**Ferramentas & Outros**  
-<img src="https://skillicons.dev/icons?i=git,gitlab,pycharm,androidstudio,materialui&perline=6" />
+**Ferramentas & Outros**
+<p align="left">
+<a href="#"><img src="https://skillicons.dev/icons?i=git" title="Git" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=materialui" title="Material UI" /></a>
+<p/>
 
 ## Vamos conversar?  
 Me encontre no LinkedIn ou envie um e-mail!  
@@ -54,18 +74,21 @@ Estou aberta a oportunidades, feedbacks e colaborações. 😄
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 <div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 10px;">
+    <a href="https://github.com/SabrinaSouzaDev/">
+      <img src="https://github-readme-alvim-stats.vercel.app/api?username=SabrinaSouzaDev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="185" />
+    </a>
+    <a href="https://github.com/SabrinaSouzaDev/">
+      <img src="https://github-readme-alvim-stats.vercel.app/api/top-langs?username=SabrinaSouzaDev&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="185" alt="Top Langs" />
+    </a>
+  </div>
 
-<a href="https://github.com/SabrinaSouzaDev/">
-  <img src="https://github-readme-alvim-stats.vercel.app/api?username=SabrinaSouzaDev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="163" />
-</a>
-</br>
-<a href="https://github.com/SabrinaSouzaDev/">
-  <img src="https://github-readme-alvim-stats.vercel.app/api/top-langs?username=SabrinaSouzaDev&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="230"  alt="Alvinn"/>
-</a>
-<br>
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigada+pela+atenção!;" />
-</h1>
+  <br />
+
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigada+pela+atenção!;" />
+  </h1>
+</div>
 
 <div align="center">
 <picture>
